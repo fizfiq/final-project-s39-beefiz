@@ -1,17 +1,18 @@
 <h2># FINAL-PROJECT-S39</h2>
 <h3>These are the option that you can choose for your final project</h3>
 
-<h3>Gangster</h3>
+<h3>S1.Gangster</h3>
 
-<p>1. A geng of gangster N25 have no idea on how to start a war, and they intend to go to the nearest ammo/guns store to get some weapon for a start. The thing is, they have no idea where to start, what to get, what to do.
---- Your objective is:
--> Make a program that can help this Gangster group and other bounty hunter, massionaries etc to start a proper armory of weapons and ammo.
---> a. the program can be start something like...
-	(1. what do you want to do? (A) Start a war.? (B) Defence your country? (C) Feeling like heavy? (D) Feeling like sneaky?
+<p>1. A geng of gangster N25 have no idea on how to start a war, and they intend to go to the nearest ammo/guns store to get some weapon for a start. The thing is, they have no idea where to start, what to get, what to do.</p>
+<ul>
+	<ol>--- Your objective is:</ol>
+	<ol>-> Make a program that can help this Gangster group and other bounty hunter, massionaries etc to start a proper armory of weapons and ammo.</ol> 
+<ol>--> a. the program can be start something like...</ol>
+	<i>(1. what do you want to do? (A) Start a war.? (B) Defence your country? (C) Feeling like heavy? (D) Feeling like sneaky?</i>
+</ul>
 
-</p>
 
-<h3>Where to eat_</h3>
+<h3>S2.Where to eat?</h3>
 
 <p>2. Where do you wanna makan?
 <ol>
@@ -20,7 +21,7 @@
 </ol>
 </p>
 
-<h3>Travelling Expanses</h3>
+<h3>S3.Travelling Expanses</h3>
 
 <p>3. My wife and I want to go to the UK to attend a conference, and we are trying to make a program that can help us with the expanses
 <ul>
@@ -41,7 +42,7 @@
 </ul>
 </p>
 
-<h3>Narrative Based Game</h3>
+<h3>S4.Narrative Based Game</h3>
 <p>4. Write a narrative based game , where you are a character who is finding your way in to the dungeon to meet the dragon.</p>
 <ul>
   <ol>a. --> your game need to be a narrative writing game.</ol>
@@ -52,7 +53,7 @@
 <i>** OR you can make your own unique narrative game.</i> 
 
 
-<h3>Sorting Hat</h3>
+<h3>S4.Sorting Hat</h3>
 <p>5. A school teacher wanted to sort his/her 120 students in 4 separate houses(rumah sukan) so that each houses has a very balance students attributes innit. Help the teacher out to make his/her life easier.</p>
 <ul>
 <ol>a. --> the user(teacher) will be entering the students name with thier unique attributes</ol> 
